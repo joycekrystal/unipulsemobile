@@ -1,0 +1,19 @@
+import {
+  AUTH_BG,
+  BRAND_LOGO,
+  SCHOOL_LOGO,
+  ORG_BANNER,
+  ANNOUNCEMENT_BANNER,
+  ONGOING_IMG,
+  UPCOMING_IMG,
+} from "@/assets";
+
+export const ASSETS = {
+  AUTH_BG,
+  BRAND_LOGO,
+  SCHOOL_LOGO,
+  ORG_BANNER,
+  ANNOUNCEMENT_BANNER,
+  ONGOING_IMG,
+  UPCOMING_IMG,
+} as const;
